@@ -11,7 +11,7 @@
  |__/          |___/ 
 ```
 
-**14 y/o developer**
+**15 y/o developer**
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
 ![C#](https://img.shields.io/badge/C%23-239120?style=flat-square&logo=csharp&logoColor=white)
