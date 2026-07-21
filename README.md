@@ -24,7 +24,7 @@
 
 ### who am i
 
-hey im jelly, a 14 year old dev
+hey im jelly, a 15 year old dev
 
 i do backend, frontend, and some modding
 
@@ -50,9 +50,7 @@ i do backend, frontend, and some modding
 ---
 
 ### currently
-
-- learning lua
-- building TUP
+- building Inferno.
 
 ---
 
